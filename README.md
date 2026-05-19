@@ -1,0 +1,2 @@
+# pythongenai
+GenAI practice repository
